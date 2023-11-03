@@ -1,0 +1,10 @@
+python3 preprocess_image.py -f N/image_0.txt -m rga -i 0 -l 1821 -b 1821 -o image_0.h
+python3 preprocess_image.py -f N/image_1.txt -m rga -i 1 -l 1821 -b 1821 -o image_1.h
+python3 preprocess_image.py -f N/image_2.txt -m rga -i 2 -l 1821 -b 1821 -o image_2.h
+python3 preprocess_image.py -f N/image_3.txt -m rga -i 3 -l 1821 -b 1821 -o image_3.h
+python3 preprocess_image.py -f N/image_4.txt -m rga -i 4 -l 1821 -b 1821 -o image_4.h
+python3 preprocess_image.py -f N/image_5.txt -m rga -i 5 -l 1821 -b 1821 -o image_5.h
+python3 preprocess_image.py -f N/image_6.txt -m rga -i 6 -l 1821 -b 1821 -o image_6.h
+python3 preprocess_image.py -f N/image_7.txt -m rga -i 7 -l 1821 -b 1821 -o image_7.h
+python3 preprocess_image.py -f N/image_8.txt -m rga -i 8 -l 1821 -b 1821 -o image_8.h
+python3 preprocess_image.py -f N/image_9.txt -m rga -i 9 -l 1821 -b 1821 -o image_9.h
